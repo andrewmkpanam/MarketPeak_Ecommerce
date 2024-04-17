@@ -30,6 +30,10 @@
 * Requested pull from origin to webserver and restarted the apache2 service.
 * Was able to view changes on the public site.
 
+## Troubleshooting
+
+The only issue I face was following the documentation, I kept trying to use yum even though I had ubuntu installed but once I realized that, I used a different package manager.
+
 ## README.md
 
 This readme document was done as the deployment was carried out step by step.
